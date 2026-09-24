@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+/* -------------------------------------------------------------------------- */
+/* Global Style Standardizations (Absolute pixel units)                       */
+/* -------------------------------------------------------------------------- */
+:root {
+  font-family: 'Inter Tight', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #ffffff;
+  color: #0f172a;
+}
