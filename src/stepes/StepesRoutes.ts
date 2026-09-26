@@ -42,6 +42,10 @@ const routes = [
     path: '/online-translation-services/',
   },
   {
+    name: 'Stepes_Online_Translation_Services_6.0_Wireframe_HeroClarified',
+    path: '/online-translation-services-2/',
+  },
+  {
     name: 'Stepes_AI_Translation_Review_6_0_Wireframe',
     path: '/ai-translation-review/',
   },
