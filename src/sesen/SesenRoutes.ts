@@ -17,6 +17,18 @@ const routes = [
     name: 'Sesen_eIFU_Translation_Wireframe_v4',
     path: '/eifu-translation-services/',
   },
+  {
+    name: 'Sesen_Ophthalmic_Device_Translation_Services_Wireframe_v4',
+    path: '/ophthalmic-device-translation-services/',
+  },
+  {
+    name: 'Sesen_Ophthalmology_Translation_Services_Wireframe_FINAL_Formatted',
+    path: '/ophthalmology-translation-services/',
+  },
+  {
+    name: 'Sesen_Therapeutic_Area_Translation_Services_Wireframe_v2_Polished',
+    path: '/therapeutic-areas/',
+  },
 ];
 
 export default routes;
