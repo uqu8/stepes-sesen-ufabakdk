@@ -65,6 +65,18 @@ const routes = [
     name: 'Stepes_Law_Firm_Translation_Services_6.0_Wireframe_Hero_Spacing_v2',
     path: '/law-firm-translation-services/',
   },
+  {
+    name: 'Stepes_Antitrust_Competition_Translation_Services_Wireframe_v4_IconConsistency',
+    path: '/antitrust-competition-translation-services/',
+  },
+  {
+    name: 'Stepes_Intellectual_Property_Translation_Services_Wireframe_v5',
+    path: '/intellectual-property-translation-services/',
+  },
+  {
+    name: 'Stepes_Trademark_Translation_Services_Wireframe_v1',
+    path: '/trademark-translation-services/',
+  },
 ];
 
 export default routes;
