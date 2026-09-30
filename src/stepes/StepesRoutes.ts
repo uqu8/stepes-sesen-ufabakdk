@@ -77,6 +77,14 @@ const routes = [
     name: 'Stepes_Trademark_Translation_Services_Wireframe_v1',
     path: '/trademark-translation-services/',
   },
+  {
+    name: 'stepes-articulate-storyline-360-translation-services-6-0-wireframe-v4',
+    path: '/articulate-storyline-translations/',
+  },
+  {
+    name: 'stepes-pulp-paper-translation-services-6-0-wireframe-v5',
+    path: '/pulp-paper-translation-services/',
+  },
 ];
 
 export default routes;
