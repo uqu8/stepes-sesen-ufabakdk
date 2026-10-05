@@ -97,6 +97,10 @@ const routes = [
     name: 'stepes-san-francisco-translation-services-6-0-wireframe',
     path: '/san-francisco-translation-services/',
   },
+  {
+    name: 'stepes-industrial-translation-services-6-0-wireframe-v3',
+    path: '/industrial-translation-services/',
+  },
 ];
 
 export default routes;
