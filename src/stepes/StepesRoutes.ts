@@ -85,6 +85,18 @@ const routes = [
     name: 'stepes-pulp-paper-translation-services-6-0-wireframe-v5',
     path: '/pulp-paper-translation-services/',
   },
+  {
+    name: 'stepes-company-background-history-6-0-wireframe',
+    path: '/about/company-background/',
+  },
+  {
+    name: 'stepes-mro-translation-services-6-0-wireframe',
+    path: '/mro-translation-services/',
+  },
+  {
+    name: 'stepes-san-francisco-translation-services-6-0-wireframe',
+    path: '/san-francisco-translation-services/',
+  },
 ];
 
 export default routes;
