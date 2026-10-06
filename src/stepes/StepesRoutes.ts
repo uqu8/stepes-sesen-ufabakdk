@@ -109,6 +109,10 @@ const routes = [
     name: 'Stepes_Maritime_Translation_Services_6_0_Wireframe_Final_Polish',
     path: '/maritime-translation-services/',
   },
+  {
+    name: 'battery-energy-storage-translation-services-wireframe',
+    path: '/battery-energy-storage-translation-services/',
+  },
 ];
 
 export default routes;
