@@ -113,6 +113,18 @@ const routes = [
     name: 'battery-energy-storage-translation-services-wireframe',
     path: '/battery-energy-storage-translation-services/',
   },
+  {
+    name: 'Stepes_Metal_Translation_Services_6_0',
+    path: '/metal-translation-services/',
+  },
+  {
+    name: 'stepes-asset-wealth-management-6-0-wireframe',
+    path: '/financial-translation-services/asset-wealth-management/',
+  },
+  {
+    name: 'StepesMultilingualAINewsRelease',
+    path: '/news/stepes-expands-multilingual-ai-services/',
+  },
 ];
 
 export default routes;
