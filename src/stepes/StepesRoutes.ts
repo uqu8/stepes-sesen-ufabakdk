@@ -125,6 +125,10 @@ const routes = [
     name: 'StepesMultilingualAINewsRelease',
     path: '/news/stepes-expands-multilingual-ai-services/',
   },
+  {
+    name: 'stepes-aluminum-translation-services-6-0-wireframe',
+    path: '/aluminum-translation-services/',
+  },
 ];
 
 export default routes;
