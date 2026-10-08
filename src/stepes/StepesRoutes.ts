@@ -129,6 +129,22 @@ const routes = [
     name: 'stepes-aluminum-translation-services-6-0-wireframe',
     path: '/aluminum-translation-services/',
   },
+  {
+    name: 'stepes-environmental-translation-services-6.0-final-polished',
+    path: '/environmental-translation-services/',
+  },
+  {
+    name: 'stepes-parts-catalog-translation-services-wireframe',
+    path: '/parts-catalog-translation-services/',
+  },
+  {
+    name: 'stepes-water-wastewater-wireframe',
+    path: '/water-wastewater-translation-services/',
+  },
+  {
+    name: 'stepes-railroad-translation-services-6-0-wireframe-v4',
+    path: '/railroad-translation-services/',
+  },
 ];
 
 export default routes;
