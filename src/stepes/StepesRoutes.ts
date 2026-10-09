@@ -145,6 +145,14 @@ const routes = [
     name: 'stepes-railroad-translation-services-6-0-wireframe-v4',
     path: '/railroad-translation-services/',
   },
+  {
+    name: 'stepes-steel-translation-services-6-0-wireframe-v3',
+    path: '/steel-translation-services/',
+  },
+  {
+    name: 'stepes-forestry-translation-wireframe',
+    path: '/forestry-translation-services/',
+  },
 ];
 
 export default routes;
